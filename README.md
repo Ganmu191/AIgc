@@ -4920,7 +4920,7 @@ MIT License
 <!-- clawhub-sync-start -->
 ## ClawHub (Skill Registry)
 
-Latest commit: `e42a136`
+Latest commit: `0180b56`
 
 ### Packages
 
